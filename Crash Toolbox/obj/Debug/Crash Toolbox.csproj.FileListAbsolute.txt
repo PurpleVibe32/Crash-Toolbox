@@ -1,0 +1,12 @@
+C:\Users\purpl\source\repos\Crash Toolbox\Crash Toolbox\bin\Debug\Crash Toolbox.exe.config
+C:\Users\purpl\source\repos\Crash Toolbox\Crash Toolbox\bin\Debug\Crash Toolbox.exe
+C:\Users\purpl\source\repos\Crash Toolbox\Crash Toolbox\bin\Debug\Crash Toolbox.pdb
+C:\Users\purpl\source\repos\Crash Toolbox\Crash Toolbox\obj\Debug\Crash Toolbox.csproj.SuggestedBindingRedirects.cache
+C:\Users\purpl\source\repos\Crash Toolbox\Crash Toolbox\obj\Debug\Crash_Toolbox.Form1.resources
+C:\Users\purpl\source\repos\Crash Toolbox\Crash Toolbox\obj\Debug\Crash_Toolbox.Form2.resources
+C:\Users\purpl\source\repos\Crash Toolbox\Crash Toolbox\obj\Debug\Crash_Toolbox.Properties.Resources.resources
+C:\Users\purpl\source\repos\Crash Toolbox\Crash Toolbox\obj\Debug\Crash Toolbox.csproj.GenerateResource.cache
+C:\Users\purpl\source\repos\Crash Toolbox\Crash Toolbox\obj\Debug\Crash Toolbox.csproj.CoreCompileInputs.cache
+C:\Users\purpl\source\repos\Crash Toolbox\Crash Toolbox\obj\Debug\Crash Toolbox.exe
+C:\Users\purpl\source\repos\Crash Toolbox\Crash Toolbox\obj\Debug\Crash Toolbox.pdb
+C:\Users\purpl\source\repos\Crash Toolbox\Crash Toolbox\obj\Debug\Crash Toolbox.csproj.AssemblyReference.cache
